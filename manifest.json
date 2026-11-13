@@ -1,0 +1,11 @@
+{
+	"id": "gumroad-sales-ledger",
+	"name": "Gumroad Sales Ledger",
+	"version": "1.0.0",
+	"minAppVersion": "1.11.4",
+	"description": "Sync your Gumroad sales into your vault: a sales ledger, totals in each product note, and a block that shows today's sales in your daily note.",
+	"author": "Brian Zucker",
+	"authorUrl": "https://github.com/bzucker4",
+	"fundingUrl": "https://github.com/sponsors/bzucker4",
+	"isDesktopOnly": false
+}
